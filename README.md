@@ -46,3 +46,5 @@
 ## unwrap() and except() are the shortcut for recoverable error handeling.
 
 ### Generic Types, Traits, and Lifetimes
+
+## Note: Traits are similar to a feature often called interfaces in other languages, although with some differences.

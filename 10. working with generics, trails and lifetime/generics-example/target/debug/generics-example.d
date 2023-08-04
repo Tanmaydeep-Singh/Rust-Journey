@@ -1,0 +1,1 @@
+E:\Rust\Getting\ started\10.\ working\ with\ generics,\ trails\ and\ lifetime\generics-example\target\debug\generics-example.exe: E:\Rust\Getting\ started\10.\ working\ with\ generics,\ trails\ and\ lifetime\generics-example\src\main.rs
